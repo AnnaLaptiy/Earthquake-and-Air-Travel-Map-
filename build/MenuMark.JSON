@@ -1,0 +1,11 @@
+{"type":"FeatureCollection","features":[
+{"type":"Feature","properties":{"name":"Hide/Show", "description":" cities", "country" : "Germany", "coastal" : "false"},"geometry":{"type":"Point","coordinates":[-15, 83]}},
+{"type":"Feature","properties":{"name":" Hide/Show", "description":"earthquakes", "country" : "Japan", "coastal" : "true"},"geometry":{"type":"Point","coordinates":[-2, 83]}},
+{"type":"Feature","properties":{"name":"Hide/Show", "description":" airports", "country" : "Egypt", "coastal" : "false"},"geometry":{"type":"Point","coordinates":[12.8, 83]}},
+{"type":"Feature","properties":{"name":" Select", "description":"country", "country" : "Egypt", "coastal" : "false"},"geometry":{"type":"Point","coordinates":[25.9, 83]}},
+{"type":"Feature","properties":{"name":"Hide/Show", "description":" legend", "country" : "Egypt", "coastal" : "false"},"geometry":{"type":"Point","coordinates":[35.4, 83]}},
+{"type":"Feature","properties":{"name":" Hide/Show", "description":"general info", "country" : "Egypt", "coastal" : "false"},"geometry":{"type":"Point","coordinates":[48.4, 83]}},
+
+{"type":"Feature","properties":{"name":" Build", "description":"a route", "country" : "Egypt", "coastal" : "false"},"geometry":{"type":"Point","coordinates":[62.3, 83]}}
+]
+}
